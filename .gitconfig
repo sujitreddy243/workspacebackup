@@ -1,0 +1,7 @@
+[user]
+	name = sujitreddy243
+	email = 7102369+sujitreddy243@users.noreply.github.com
+[credential]
+	helper = cache
+[push]
+	default = simple
